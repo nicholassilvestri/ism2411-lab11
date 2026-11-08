@@ -9,3 +9,9 @@ From this folder:
 ```
 python3 customers.py
 ```
+## Commits
+#Initial commit
+#add gitignore for Python and OS files
+#complete customer dictionary exercises
+#Revise README with title and run instructions
+
