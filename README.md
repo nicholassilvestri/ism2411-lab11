@@ -11,8 +11,8 @@ python3 customers.py
 ```
 ## Commits
 Commit History:
--Initial commit
--add gitignore for Python and OS files
--complete customer dictionary exercises
--Revise README with title and run instructions
+1. Initial commit
+2. add gitignore for Python and OS files
+3. complete customer dictionary exercises
+4. Revise README with title and run instructions
 
