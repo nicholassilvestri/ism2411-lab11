@@ -10,6 +10,7 @@ From this folder:
 python3 customers.py
 ```
 ## Commits
+Commit History:
 -Initial commit
 -add gitignore for Python and OS files
 -complete customer dictionary exercises
